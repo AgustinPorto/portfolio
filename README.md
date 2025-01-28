@@ -16,10 +16,11 @@ Errepar utilizaba servidores on-premise y su contenido comentado por prestigioso
 
 Por tal razón, la dirección de la organización decidió migrar todo sus activos digitales a la nube (AWS), comenzar a gestionar sus documentos con Teamsite Cloud y aprovechar este cambio de tecnología para actualizar desde el Login hasta el look and feel de la web y sus millones de documentos de jurisprudencia comentada. Esta decisión aceleró el proceso de transformación digital que estaba llevando adelante la empresa, que debido a la magnitud del proyecto debió crear un área dedicada a la Gestión de la Demanda de los diversos requerimientos que surgían en el día a día de las diversas gerencias. 
 
-Desde mi posición como Analista de Seguimiento y Gestión de la Demanda llevamos adelante dos cambios trascendentales en la organización: 
+Desde mi posición como Analista de Seguimiento y Gestión de la Demanda llevamos adelante tres cambios trascendentales en la organización: 
 
 1. La implementación de metodologías agiles en todos los equipos de desarrollo de la organización con todas sus ceremonias.
 2. La estandarización del pedido de nuevos requerimientos, su priorización de cara al proyecto y generación de casos de uso.
+3. La implementación de una Mesa de Ayuda (MDA) que permitió a los equipos de desarrollo distribuir su tiempo efectivamente entre los problemas del día a día y el desarrollo requerido para la migración. 
 
-
+### Implementación de nuevo login
 
