@@ -81,4 +81,10 @@ En este proyecto, implementamos metodologías ágiles, gestionando el trabajo a 
 
 Además, la plataforma incluye funcionalidades como mensajería entre el usuario y sus clientes, la creación de roles dentro de un mismo estudio contable, un espacio de almacenamiento y un módulo de tareas estilo tablero.
 
-Este nuevo producto atrajo a un público más joven que no conocía ni utilizaba Errepar, marcando el inicio de una nueva etapa para la organización como proveedor de aplicaciones. Actualmente, la herramienta sigue sumando funcionalidades y ganando relevancia dentro de los ingresos de la empresa, con un gran mercado potencial aún por conquistar.
+### Resultados del proyecto
+
+**Este nuevo producto atrajo a un público más joven que no conocía ni utilizaba Errepar, marcando el inicio de una nueva etapa para la organización como proveedor de aplicaciones**. Actualmente, la herramienta sigue incorporando funcionalidades y ganando relevancia en los ingresos de la empresa, con un amplio mercado potencial aún por explorar.
+
+Ante la necesidad de nuevos desarrollos, se amplió el equipo de desarrolladores. Esto implicó la creación y afinación de los procesos nuevos y existentes para la generación de requerimientos, seguimiento, establecimiento de plazos y criterios de aprobación, diferenciando claramente a los equipos dedicados a las tareas diarias de aquellos enfocados exclusivamente en los proyectos.
+
+## **Thomson Reuters: CoCounsel** 
