@@ -68,9 +68,17 @@ Mi Estudio es una plataforma para gestionar, simplificar y organizar las tareas 
 
 ![imagen](https://github.com/user-attachments/assets/ce51f864-30e2-4592-952e-3256f7853f08)
 
-Desde nuestra área, siguiendo nuestros procesos generados anteriormente, nos encargamos de la recopilación de requerimientos para la nueva herramienta. Más allá de los módulos que ya se tenían pensados con anterioridad (Uno por cada impuesto), la priorización fue a través de un estudio de mercado llevado a cabo por el área de Research de Errepar. En ella constatamos que los clientes se encontraban interesados, en primer lugar, en dos módulos:
+Desde nuestra área, y siguiendo los procesos previamente establecidos, nos encargamos de la recopilación de requerimientos para la nueva herramienta. Además de los módulos ya planificados con anterioridad (uno por cada impuesto), la priorización de funcionalidades se realizó a partir de un estudio de mercado llevado a cabo por el área de Research de Errepar.
 
-1. Ganancias y Bienes Personales
-2. Calendario Interactivo, que permitía a los usuarios cargar deadlines personalizados de impuestos de sus clientes. A su vez, al estar vinculado con la AFIP, el calendario notificará al usuario que impuesto corresponde a cada cliente.
+Este estudio reveló que los clientes estaban principalmente interesados en dos módulos:
+
+1. Ganancias y Bienes Personales: Este módulo aborda en profundidad estos impuestos, proporcionando información detallada y herramientas específicas para su confección, gestión y presentación al ARCA. 
+2. Calendario Interactivo: Una funcionalidad que permite a los usuarios cargar deadlines personalizados para los impuestos de sus clientes. Además, al estar vinculado con la AFIP, el calendario notifica automáticamente qué impuesto corresponde a cada cliente y cuándo debe ser gestionado.
    
-De cara a encarar este desarrollo fue necesario expandir el equipo de desarrolladores de Errepar, que ocasionó la creación de una gerencia de Sistemas que trabajaría en consonancia con nuestra área, de cara a poder independizar a aquellos desarrolladores que trabajaran en los procesos del día a día de la organización y aquellos que estaran vinculados a los proyectos que nacen por la creación de nuevos productos. 
+Para llevar a cabo este desarrollo, fue necesario expandir el equipo de desarrolladores de Errepar. Esto dio lugar a la creación de una nueva Gerencia de Sistemas, que trabajaría en conjunto con nuestra área. Este cambio buscó independizar a los desarrolladores encargados de los procesos diarios de la organización de aquellos asignados a proyectos derivados de la creación de nuevos productos.
+
+En este proyecto, implementamos metodologías ágiles, gestionando el trabajo a través de Sprints. En cada uno de estos, nos enfocamos en realizar mejoras incrementales en los módulos, asegurando así una evolución continua del producto que continúa hasta el día de hoy.
+
+Además, la plataforma incluye funcionalidades como mensajería entre el usuario y sus clientes, la creación de roles dentro de un mismo estudio contable, un espacio de almacenamiento y un módulo de tareas estilo tablero.
+
+Este nuevo producto atrajo a un público más joven que no conocía ni utilizaba Errepar, marcando el inicio de una nueva etapa para la organización como proveedor de aplicaciones. Actualmente, la herramienta sigue sumando funcionalidades y ganando relevancia dentro de los ingresos de la empresa, con un gran mercado potencial aún por conquistar.
