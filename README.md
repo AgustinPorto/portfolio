@@ -59,8 +59,17 @@ Con el nuevo modelo, podríamos implementar técnicas de SEO para generar tráfi
 
 ### Resultados del proyecto
 Una vez implementadas estas mejoras, **el tráfico en los distintos sitios web de Errepar aumentó, en promedio, un 17% interanual (YoY), mientras que las suscripciones de nuevos clientes crecieron un 13% YoY**. Estos resultados evidenciaron una reversión sostenida en la disminución de suscriptores y en la pérdida de tráfico orgánico que se había registrado en años anteriores.
-Con respecto a los procesos, la organización adoptó las metodologías ágiles y sinceró que la productividad de sus equipos de desarrolladores había aumentado de manera significativa. Los entregables comenzaron a ser trackeados y medibles. La adopción de una Mesa de Ayuda permitió formalizar y generar reportes sobre los tickets más usuales del día a día de la organización, lo que permitió priorizar que procesos eran más urgenten y debían ser solucionados. 
+Con respecto a los procesos, **la organización adoptó las metodologías ágiles y sinceró que la productividad de sus equipos de desarrolladores había aumentado de manera significativa. Los entregables comenzaron a ser trackeados y medibles**. La adopción de una Mesa de Ayuda permitió **formalizar y generar reportes sobre los tickets más usuales del día a día de la organización, lo que permitió priorizar que errores eran más urgentes y debían ser solucionados**. 
 
 
-## **Errepar: Nueva herramienta para contadores: Mi Estudio** 
+## **Errepar: Mi Estudio** 
 
+Mi Estudio es una plataforma para gestionar, simplificar y organizar las tareas operativas y diarias del sector contable. Cuenta con un administrador de tareas, el calendario de vencimientos, una mensajería privada, un espacio de almacenamiento de archivos en la nube para interactuar con los clientes y diversos módulos para la liquidación de impuestos. La plataforma nace gracias al cambio de enfoque en el negocio que la dirección consideró era necesario para adaptarse a los nuevos tiempos. 
+
+![imagen](https://github.com/user-attachments/assets/ce51f864-30e2-4592-952e-3256f7853f08)
+
+Desde nuestra área, siguiendo nuestros procesos generados anteriormente, comenzó con la generación de requerimientos para esta nueva herramienta. Más allá de los módulos que ya se tenían pensados con anterioridad (Uno por cada impuesto), la priorización fue a través de un estudio de mercado llevado a cabo por el área de Research de Errepar. En ella constatamos que los clientes se encontraban interesados, en primer lugar en dos módulos:
+
+1. Ganancias y Bienes Personales
+2. Calendario Interactivo, que permitía a los usuarios cargar deadlines personalizados de impuestos de sus impuestos. A su vez, al estar vinculado con la AFIP, el calendario notificará al usuario que impuesto corresponde a cada cliente.
+   
