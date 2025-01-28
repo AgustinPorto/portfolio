@@ -107,3 +107,6 @@ Al ser un producto internacional, fue necesario impulsar y gestionar para que es
 
 ### Resultados del proyecto
 **La herramienta fue traducida al español y comenzó el desarrollo de su integración con el contenido de La Ley. Esto permitirá incorporar un RAG (retrieval-augmented generation) que optimizará aún más la calidad de las respuestas del asistente. Como resultado de las pruebas piloto realizadas, varios estudios de abogados en la República Argentina y Brasil decidieron adquirir el producto**. Para posicionar la herramienta en América Latina, recopilamos testimonios de estos estudios, destacando casos de éxito que muestran cómo el asistente contribuye a reducir los tiempos de tareas repetitivas, permitiendo que los abogados puedan centrarse en lo realmente importante: asesorar a sus clientes.
+
+## **Claro Argentina: Claro IoT y Claro Connect** 
+
