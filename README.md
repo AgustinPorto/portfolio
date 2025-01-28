@@ -24,7 +24,7 @@ Desde mi posición como Analista de Seguimiento y Gestión de la Demanda llevamo
 
 ### Implementación de nuevo login
 
-La organización utilizaba un sistema de login muy antiguo: Al adquirir los servicios de Errepar, al cliente se le asignaba un número de suscriptor y contraseña que debían recordar. Posteriormente, al ingresar por primera vez a la web, se le solicitaba generar una nueva clave. Este mecanismo generaba numerosos llamados diarios a Atención al Cliente, lo que reducia seriamente la efectividad de la postventa, que perdía el tiempo solucionando errores mundanos. 
+La organización utilizaba un sistema de login muy antiguo: Al adquirir los servicios de Errepar, al cliente se le asignaba un número de suscriptor y contraseña que debían recordar. Posteriormente, al ingresar por primera vez a la web, se le solicitaba generar una nueva clave. Este mecanismo generaba numerosos llamados diarios a Atención al Cliente, lo que reducia seriamente la efectividad de la postventa, que perdía el tiempo solucionando este error fácilmente corregible. 
 ![imagen](https://github.com/user-attachments/assets/7a04201f-6ff1-4e7c-b896-8123a2b45b6f)
  
 Desde el área de Gestión de la Demanda, llevamos adelante la recolección de los requisitos para el nuevo login, la generación de sus casos de uso y nuevos procesos vinculados. Nuestros criterios y casos de uso se resumen en la siguiente lista:
@@ -38,7 +38,7 @@ Desde el área de Gestión de la Demanda, llevamos adelante la recolección de l
 El trabajo que realizamos desde el área con el proveedor y los desarrolladores de Errepar culminó con el siguiente login:
 
 ![imagen](https://github.com/user-attachments/assets/c192bfb5-78d2-4bc4-8ac2-d1c3ac803578)
-
+*Nueva interfaz de login de Errepar. Responsive y una paleta de colores más adaptada a la actualidad*
 
 ### Actualización del look and feel de la jurisprudencia comentada
 
@@ -88,3 +88,22 @@ Además, la plataforma incluye funcionalidades como mensajería entre el usuario
 Ante la necesidad de nuevos desarrollos, se amplió el equipo de desarrolladores. Esto implicó la creación y afinación de los procesos nuevos y existentes para la generación de requerimientos, seguimiento, establecimiento de plazos y criterios de aprobación, diferenciando claramente a los equipos dedicados a las tareas diarias de aquellos enfocados exclusivamente en los proyectos.
 
 ## **Thomson Reuters: CoCounsel** 
+
+CoCounsel es una herramienta de inteligencia artificial diseñada para acelerar la práctica del derecho. Basada en la tecnología de GPT-4, CoCounsel ofrece asistencia en diversas tareas esenciales del trabajo jurídico. Sus capacidades abarcan desde el análisis detallado de documentos hasta la redacción de contratos y la creación de resúmenes de textos legales, esta herramienta mejora la eficiencia y ahorra tiempo al abogado. Su objetivo es simplificar los procesos repetitivos, permitiendo que se concentren en lo que realmente importa: la estrategia y el asesoramiento a sus clientes.
+
+![imagen](https://github.com/user-attachments/assets/3907b546-bbfa-41b9-bf02-dfb64bd30fc0)
+*Pantalla de chat de CoCounsel*
+
+En mi rol como Business Consultant para los productos de Inteligencia Artificial de Thomson Reuters Argentina, se me encargó llevar adelante la regionalización de la herramienta CoCounsel, adaptándola al derecho romano. Originalmente, CoCounsel estaba entrenada en base a la jurisprudencia del derecho anglosajón, el cual se basa en precedentes y casos anteriores. En cambio, el derecho romano se estructura principalmente en códigos, como el penal o civil. Esta diferencia clave requiere ajustar la herramienta para que pueda trabajar de manera eficiente con las particularidades del sistema legal romano.
+
+Para comenzar con la regionalización de CoCounsel, decidi seguir varios pasos:
+
+1. Realizar el requerimiento formal a los equipos de desarrollo de Casetext (empresa creadora de CoCounsel, adquirida por Thomson Reuters, de origen británico) para traducir y entrenar la herramienta en español de manera parcial.
+2. Integrar CoCounsel con La Ley, la mayor base de datos de jurisprudencia comentada en temas legales de la República Argentina.
+3. Iniciar pruebas piloto con algunos de los estudios de abogados más grandes de la región, con el fin de evaluar su desempeño en un entorno real.
+4. Desarrollar estrategias de posicionamiento específicas para el mercado de América Latina, con el objetivo de maximizar su alcance y adopción en la región.
+
+Al ser un producto internacional, fue necesario impulsar y gestionar para que estos desarrollos fueran considerados y finalmente se llevaran a cabo. Debido a la diferencia de contextos y estructuras legales, logramos generar el entendimiento y la alineación con los equipos de desarrollo de Casetext, asegurando que la adaptación de CoCounsel al derecho romano y al mercado latinoamericano fuera una prioridad. Fue clave garantizar que la herramienta se adaptara tanto lingüística como funcionalmente a las necesidades específicas de la región para su implementación exitosa.
+
+### Resultados del proyecto
+La herramienta fue traducida al español y comenzó el desarrollo de su integración con el contenido de La Ley. Esto permitirá incorporar un RAG (retrieval-augmented generation) que optimizará aún más la calidad de las respuestas del asistente. Como resultado de las pruebas piloto realizadas, varios estudios de abogados en la República Argentina y Brasil decidieron adquirir el producto. Para posicionar la herramienta en América Latina, recopilamos testimonios de estos estudios, destacando casos de éxito que muestran cómo el asistente contribuye a reducir los tiempos de tareas repetitivas, permitiendo que los abogados puedan centrarse en lo realmente importante: asesorar a sus clientes.
