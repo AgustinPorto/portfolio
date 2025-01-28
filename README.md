@@ -108,11 +108,33 @@ Al ser un producto internacional, fue necesario impulsar y gestionar para que es
 ### Resultados del proyecto
 **La herramienta fue traducida al español y comenzó el desarrollo de su integración con el contenido de La Ley. Esto permitirá incorporar un RAG (retrieval-augmented generation) que optimizará aún más la calidad de las respuestas del asistente. Como resultado de las pruebas piloto realizadas, varios estudios de abogados en la República Argentina y Brasil decidieron adquirir el producto**. Para posicionar la herramienta en América Latina, recopilamos testimonios de estos estudios, destacando casos de éxito que muestran cómo el asistente contribuye a reducir los tiempos de tareas repetitivas, permitiendo que los abogados puedan centrarse en lo realmente importante: asesorar a sus clientes.
 
-## **Claro Argentina: Claro IoT y Claro Connect** 
+## **Claro Argentina: Claro IoT** 
 
 Claro Argentina segmenta su mercado en dos categorías principales: Clientes Individuales y Empresas, con un portafolio diferenciado de productos y servicios para cada segmento.
 
 En el ecosistema empresarial, Claro Argentina ofrece dos plataformas especializadas para la autogestión de líneas IoT: Claro IoT y Claro Connect. Estas soluciones están diseñadas para atender diferentes niveles de complejidad en la administración de servicios IoT. Claro IoT se posiciona como una solución optimizada para empresas con requerimientos de gestión más específicos y flujos de trabajo simplificados, mientras que Connect suple a aquellos con necesidades más avanzadas. 
 
+### Features
 
+Claro IoT es utilizado actualmente por 550 mil líneas correspondientes a 236 clientes con necesidades sencillas de gestión de líneas repartidos en Argentina, Uruguay y Paraguay. En la plataforma se permite, actualmente: 
 
+1. Cambiar el estado de las líneas
+2. Obtener reportes
+3. Asignar etiquetas
+4. Filtrar por distintos criterios
+
+De cara a añadir funcionalidad a la plataforma hemos decidido sumar:
+
+1. Envío de comandos como SMS a los dispositivos: Capacidad de enviar comandos SMS para ejecutar acciones como reinicio de dispositivos y obtención de información en tiempo real.
+2. Activación del roaming directamente desde la plataforma: Habilitación del servicio de roaming directamente desde la plataforma, eliminando la necesidad de contactar a Atención al Cliente. Esta funcionalidad ha demostrado reducir más de 200 solicitudes mensuales el trabajo de nuestros asesores.
+3. Creación de una nueva cláusula comercial llamada compromiso mínimo: Nueva cláusula comercial que otorga flexibilidad en la gestión de líneas, permitiendo a los clientes optimizar costos al no facturar líneas inactivas, adaptándose así a las necesidades del negocio IoT.
+
+### Trabajo realizado
+
+Con respecto al envío de SMS llevamos adelante una gestión integral del desarrollo.Generamos nuevas pantallas en la plataforma que permiten enviar y recibir mensajes de forma intuitiva y configuramos la marcación necesaria para que los mensajes fluyan en ambas direcciones (desde y hacia los dispositivos), asegurando una comunicación fluida entre la herramienta y los dispositivos. Para garantizar una adopción exitosa, capacitamos a todo nuestro equipo comercial y actualizamos las guías de los asesores de atención al cliente con procedimientos claros para resolver cualquier inconveniente técnico que pudiera surgir con esta nueva funcionalidad.
+
+Para la activación del Roaming escuchamos los requerimientos solicitados por Atención al Cliente y diseñamos la mejor solución a nuestro alcance: Antes, cada solicitud requería una llamada telefónica y la intervención de un asesor; ahora, los clientes pueden activar este servicio con unos pocos clics dentro de la herramienta. Este cambio no solo mejoró la experiencia del usuario, sino que también optimizó nuestros recursos internos, reduciendo la carga de trabajo de nuestro equipo de atención al cliente en más de 200 solicitudes mensuales. El impacto fue inmediato tanto en la satisfacción de nuestros clientes como en la eficiencia operativa. A su vez, nuevamente, generamos el material para las capacitaciones a nuestra fuerza comercial y a los asesores de atención al cliente. 
+
+La nueva clausula comercial nos exigió diseñar un sistema flexible que permite activar o desactivar esta funcionalidad según las necesidades del negocio. Para esto establecimos parámetros claros para determinar cuándo se aplica el compromiso mínimo en la facturación (El porcentaje a partir se activa es modificable). La implementación incluyó cambios significativos en múltiples sectores: Generamos el nuevo cargo en el sistema de facturación de la empresa, diseñamos una campaña de comunicación por email para informar a nuestros clientes, y adaptamos los contratos para los nuevos usuarios junto con el equipo de Legales. Para asegurar una transición fluida, cargamos toda la documentación necesaria en ClaroPedia y WebCom, permitiendo que tanto nuestro equipo comercial como los asesores de atención al cliente accedan fácilmente a la información sobre la nueva lógica de cálculo y los términos contractuales actualizados.
+
+## **Claro Argentina: Claro Connect** 
