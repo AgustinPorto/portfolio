@@ -42,6 +42,22 @@ El trabajo que realizamos desde el área con el proveedor y los desarrolladores 
 
 ### Actualización del look and feel de la jurisprudencia comentada
 
-Errepar es considerada una de las principales fuentes de información para todos los temas relacionados a las novedades contables y juridicas en la República Argentina. Esta consideración se basa en la calidad de sus activos digitales, que incluyen desde explicaciones de interpretación de leyes e implicaciones jurisprudenciales de fallos hasta notas de blog. Toda esta serie de comentarios se encuentra realizada por los mayores expertos en la materia de la Argentina y el acceso a estos comentarios y explicaciones ha sido el centro del negocio de Errepar desde su fundación. 
+Errepar es reconocida como una de las principales fuentes de información sobre novedades contables y jurídicas en la República Argentina. Esta reputación se basa en la calidad de sus activos digitales, que incluyen desde interpretaciones de leyes e implicancias jurisprudenciales de fallos hasta artículos de blog. Todos estos comentarios son elaborados por los mayores expertos en la materia en el país, y el acceso a estas explicaciones ha sido el eje central del modelo de negocio de Errepar desde su fundación.
 
-Por esta razón, al comenzar con la tarea de renovar el look and feel de la jurisprudencia nos encontramos con mucha resistencia dentro de la organización. 
+Por esta razón, al iniciar la tarea de renovar el diseño y formato de la jurisprudencia, enfrentamos una fuerte resistencia dentro de la organización. Desde nuestra área, decidimos actualizar tanto la tipografía como la maquetación de los diversos activos digitales para alinearlos con las tendencias actuales. El principal desafío fue que esta jurisprudencia, al estar comentada por múltiples profesionales con estilos de escritura particulares, requería definir de manera masiva y consistente qué elementos correspondían al título de un documento y cuáles al cuerpo de la jurisprudencia.
+
+Ante la magnitud de este desafio, definimos las prioridades de clara a sobre que documentos trabajaríamos en una primera iteración de este look and feel nuevo:
+
+1. Adoptaremos una estrategia lo más consistente posible para los documentos que son más visitados (Top 2000).
+2. Debido a los millones de documentos comentados que ya no poseen visitas, consideramos necesario comenzar un proceso de saneamiento. Esto permitirá ahorrar dinero en almacenamiento y reducir costos operativos a Errepar.
+3. Sobre el margen derecho del documento, generaremos un algoritmo que le brinde al usuario jurisprudencia y/o notas de interés basada en sus últimos documentos visitados
+4. La metadata de los archivos formarán parte del hipervinculo de estos documentos, de cara a poder aplicar técnicas SEO más efectivas.  
+
+Además, propusimos a la dirección un cambio estratégico en el modelo de negocio mediante la adopción de un enfoque freemium. Este modelo permitiría a los usuarios acceder a jurisprudencia comentada con ciertos límites, algo que hasta entonces solo estaba disponible para suscriptores. Esta restricción no solo dificultaba la captación de nuevos clientes, sino que también impedía que el contenido fuera indexado por Google, lo que limitaba su visibilidad en búsquedas orgánicas.
+
+Con el nuevo modelo, podríamos implementar técnicas de SEO para generar tráfico orgánico hacia la web de Errepar y sus contenidos, incrementando la posibilidad de atraer nuevos clientes y fomentar la adquisición de productos y servicios de la organización. La propuesta fue aceptada por la dirección y consideró que esta nueva estrategia podía ser muy positiva de cara a captar usuarios más jovenes, que poseen otros habitos de búsqueda de jurisprudencia. 
+
+### Resultados del proyecto
+Una vez implementadas estas mejoras, el tráfico sobre las diversas web de Errepar aumento, en promedio, un 17% YoY y las suscripciones de nuevos clientes aumentaron en un 13% YoY. Estos números mostraron consistentemente una reversión en la caída de suscriptores a lo largo del tiempo y la pérdida de tráfico organico sobre el contenido de la web que se venía midiendo en años anteriores. 
+
+
