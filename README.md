@@ -27,14 +27,18 @@ Desde mi posición como Analista de Seguimiento y Gestión de la Demanda llevamo
 La organización utilizaba un sistema de login muy antiguo: Al adquirir los servicios de Errepar, al cliente se le asignaba un número de suscriptor y contraseña que debían recordar. Posteriormente, al ingresar por primera vez a la web, se le solicitaba generar una nueva clave. Este mecanismo generaba numerosos llamados diarios a Atención al Cliente, lo que reducia seriamente la efectividad de la postventa, que perdía el tiempo solucionando errores mundanos. 
 ![imagen](https://github.com/user-attachments/assets/7a04201f-6ff1-4e7c-b896-8123a2b45b6f)
  
-Desde el área de Gestión de la Demanda, llevamos adelante la recolección de los requisitos para el nuevo login, la generación de sus casos de uso y nuevos procesos vinculados.
+Desde el área de Gestión de la Demanda, llevamos adelante la recolección de los requisitos para el nuevo login, la generación de sus casos de uso y nuevos procesos vinculados. Nuestros criterios y casos de uso se resumen en la siguiente lista:
 
 1. El usuario ya no ingresará por medio de un número de suscriptor, sino a través del email con el cual compartio cuando contrató el servicio.
 2. El cliente, al adquirir el producto, recibirá un email con una pieza gráfica donde se detalla el email y su primera contraseña en el sistema
-3. Al loguearse por primera vez, se le solicitará generar una nueva contraseña siguiendo ciertos estandares de seguridad
-4. Al clickear en Restablecer Contraseña, dispondrá de medios para renovar su clave sin necesidad de llamar a Atención al Cliente.
+3. Al loguearse por primera vez, se le solicitará generar una nueva contraseña siguiendo ciertos estándares de seguridad
+4. Al clickear en *Restablecer Contraseña*, dispondrá de medios para renovar su clave sin necesidad de llamar a Atención al Cliente.
 5. En futuras iteraciones se integrará la API de Google para loguearse a través del mismo correo.
 
 El trabajo que realizamos desde el área con el proveedor y los desarrolladores de Errepar culminó con el siguiente login:
 
 ![imagen](https://github.com/user-attachments/assets/c192bfb5-78d2-4bc4-8ac2-d1c3ac803578)
+
+
+### Actualización del look and feel de la jurisprudencia comentada
+
