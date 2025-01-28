@@ -18,9 +18,12 @@ Por tal razón, la dirección de la organización decidió migrar todo sus activ
 
 Desde mi posición como Analista de Seguimiento y Gestión de la Demanda llevamos adelante tres cambios trascendentales en la organización: 
 
-1. La implementación de metodologías agiles en todos los equipos de desarrollo de la organización con todas sus ceremonias.
+1. La implementación de metodologías agiles en todos los equipos de desarrollo de la organización con sus ceremonias correspondientes.
 2. La estandarización del pedido de nuevos requerimientos, su priorización de cara al proyecto y generación de casos de uso.
 3. La implementación de una Mesa de Ayuda (MDA) que permitió a los equipos de desarrollo distribuir su tiempo efectivamente entre los problemas del día a día y el desarrollo requerido para la migración. 
 
 ### Implementación de nuevo login
 
+Errepar utilizaba un sistema de login muy antiguo: Al adquirir los servicios de Errepar, al cliente se le asignaba un número de suscriptor y contraseña que debían recordar. Al ingresar por primera vez a la web, se le solicitaba generar una nueva clave. Este mecanismo generaba numerosos llamados diarios a Atención al Cliente, lo que reducia seriamente la efectividad de la postventa, que perdía el tiempo solucionando errores mundanos. 
+![imagen](https://github.com/user-attachments/assets/7a04201f-6ff1-4e7c-b896-8123a2b45b6f)
+ 
