@@ -10,7 +10,7 @@ Licenciado en Relaciones Internacionales en la Universidad de San Andrés (2020)
 Errepar es una editorial argentina reconocida por su especialización en contenido técnico y profesional en las áreas de contabilidad, finanzas, derecho, tributación, y recursos humanos. Publica libros, revistas, y material de consulta tanto en formato físico como digital, dirigido a profesionales contables como judiciales.
 
 ![Errepar2019](https://github.com/user-attachments/assets/49dbafed-39bc-40bc-abf0-57ede0cc7d1a)
-            Errepar en el 2019. Interfaz desactualizada, no responsive y con una paleta de colores antigua. 
+*Errepar en el 2019. Interfaz desactualizada, no responsive y con una paleta de colores antigua*. 
             
 Errepar utilizaba servidores on-premise y su contenido comentado por prestigiosos profesionales (el activo de mayor valor de la organización) estaba alojado en SharePoint 2008. A pesar de que el ciclo de vida oficial del producto finalizó en 2012, Errepar continuó manteniendo operativo los servidores en esta versión, añadiendo add-ons y haciendo customizaciones. En el 2019, tanto los servidores como los numerosos workaround implementados para mantener el SharePoint "actualizado", llegaron a su fin y empezaron a generar interrupciones en el servicio para los clientes. Esto se consideró critico y amenazaba seriamente el principal ingreso de la organización. 
 
@@ -59,5 +59,8 @@ Con el nuevo modelo, podríamos implementar técnicas de SEO para generar tráfi
 
 ### Resultados del proyecto
 Una vez implementadas estas mejoras, **el tráfico en los distintos sitios web de Errepar aumentó, en promedio, un 17% interanual (YoY), mientras que las suscripciones de nuevos clientes crecieron un 13% YoY**. Estos resultados evidenciaron una reversión sostenida en la disminución de suscriptores y en la pérdida de tráfico orgánico que se había registrado en años anteriores.
+Con respecto a los procesos, la organización adoptó las metodologías ágiles y sinceró que la productividad de sus equipos de desarrolladores había aumentado de manera significativa. Los entregables comenzaron a ser trackeados y medibles. La adopción de una Mesa de Ayuda permitió formalizar y generar reportes sobre los tickets más usuales del día a día de la organización, lo que permitió priorizar que procesos eran más urgenten y debían ser solucionados. 
 
+
+## **Errepar: Nueva herramienta para contadores: Mi Estudio** 
 
