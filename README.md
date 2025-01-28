@@ -3,9 +3,9 @@
 Licenciado en Relaciones Internacionales en la Universidad de San Andrés (2020) y futuro Analista en Sistemas en la Escuela Da Vinci (2025)
 
 
-## Proyectos
+# Proyectos
 
-**Errepar: Migración de Sharepoint a Teamsite Cloud** 
+## **Errepar: Migración de Sharepoint a Teamsite Cloud** 
 
 Errepar es una editorial argentina reconocida por su especialización en contenido técnico y profesional en las áreas de contabilidad, finanzas, derecho, tributación, y recursos humanos. Publica libros, revistas, y material de consulta tanto en formato físico como digital, dirigido a profesionales contables como judiciales.
 
@@ -58,6 +58,6 @@ Además, propusimos a la dirección un cambio estratégico en el modelo de negoc
 Con el nuevo modelo, podríamos implementar técnicas de SEO para generar tráfico orgánico hacia la web de Errepar y sus contenidos, incrementando la posibilidad de atraer nuevos clientes y fomentar la adquisición de productos y servicios de la organización. La propuesta fue aceptada por la dirección y consideró que esta nueva estrategia podía ser muy positiva de cara a captar usuarios más jovenes, que poseen otros habitos de búsqueda de jurisprudencia. 
 
 ### Resultados del proyecto
-Una vez implementadas estas mejoras, el tráfico sobre las diversas web de Errepar aumento, en promedio, un 17% YoY y las suscripciones de nuevos clientes aumentaron en un 13% YoY. Estos números mostraron consistentemente una reversión en la caída de suscriptores a lo largo del tiempo y la pérdida de tráfico organico sobre el contenido de la web que se venía midiendo en años anteriores. 
+Una vez implementadas estas mejoras, **el tráfico en los distintos sitios web de Errepar aumentó, en promedio, un 17% interanual (YoY), mientras que las suscripciones de nuevos clientes crecieron un 13% YoY**. Estos resultados evidenciaron una reversión sostenida en la disminución de suscriptores y en la pérdida de tráfico orgánico que se había registrado en años anteriores.
 
 
