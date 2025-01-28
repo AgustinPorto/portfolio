@@ -139,7 +139,9 @@ La nueva clausula comercial nos exigió diseñar un sistema flexible que permite
 
 ### Resultados del proyecto
 El envío de SMS fue un feature solicitado por multitud de clientes a lo largo del ciclo de vida del producto. Alíneamos y generamos procesos para la alta de marcaciones de manera casi inmediata para el resto de la organización cuando lo necesiten. Por nuestra parte, tenemos conocimiento de que unos 100 clientes hacen uso de la funcionalidad gracias a estadisticas que tenemos sobre la plataforma.
+
 Gracias a la implementación de la activación del Roaming, logramos reducir la carga de trabajo de nuestro equipo de atención al cliente en más de 200 solicitudes mensuales, salvando preciado tiempo para que sea utilizado en cuestiones más prioritarias y urgentes.
+
 La implementación del compromiso mínimo nos permitió alcanzar una mayor predictibilidad en los ingresos, creando un flujo financiero más estable y consistente. Esta nueva estructura incentivó a nuestros clientes a optimizar la gestión de su inventario de SIMs, lo que resultó en una operación más eficiente. En consecuencia, logramos una reducción sustancial en nuestros costos logísticos asociados al transporte y distribución de SIMs, ya que los clientes comenzaron a mantener un control más riguroso de sus chips. 
 
 ## **Claro Argentina: Claro Connect** 
