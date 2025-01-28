@@ -68,8 +68,9 @@ Mi Estudio es una plataforma para gestionar, simplificar y organizar las tareas 
 
 ![imagen](https://github.com/user-attachments/assets/ce51f864-30e2-4592-952e-3256f7853f08)
 
-Desde nuestra área, siguiendo nuestros procesos generados anteriormente, comenzó con la generación de requerimientos para esta nueva herramienta. Más allá de los módulos que ya se tenían pensados con anterioridad (Uno por cada impuesto), la priorización fue a través de un estudio de mercado llevado a cabo por el área de Research de Errepar. En ella constatamos que los clientes se encontraban interesados, en primer lugar en dos módulos:
+Desde nuestra área, siguiendo nuestros procesos generados anteriormente, nos encargamos de la recopilación de requerimientos para la nueva herramienta. Más allá de los módulos que ya se tenían pensados con anterioridad (Uno por cada impuesto), la priorización fue a través de un estudio de mercado llevado a cabo por el área de Research de Errepar. En ella constatamos que los clientes se encontraban interesados, en primer lugar, en dos módulos:
 
 1. Ganancias y Bienes Personales
-2. Calendario Interactivo, que permitía a los usuarios cargar deadlines personalizados de impuestos de sus impuestos. A su vez, al estar vinculado con la AFIP, el calendario notificará al usuario que impuesto corresponde a cada cliente.
+2. Calendario Interactivo, que permitía a los usuarios cargar deadlines personalizados de impuestos de sus clientes. A su vez, al estar vinculado con la AFIP, el calendario notificará al usuario que impuesto corresponde a cada cliente.
    
+De cara a encarar este desarrollo fue necesario expandir el equipo de desarrolladores de Errepar, que ocasionó la creación de una gerencia de Sistemas que trabajaría en consonancia con nuestra área, de cara a poder independizar a aquellos desarrolladores que trabajaran en los procesos del día a día de la organización y aquellos que estaran vinculados a los proyectos que nacen por la creación de nuevos productos. 
