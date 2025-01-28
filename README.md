@@ -116,7 +116,7 @@ En el ecosistema empresarial, Claro Argentina ofrece dos plataformas especializa
 
 ### Features
 
-Claro IoT es utilizado actualmente por 550 mil líneas correspondientes a 236 clientes con necesidades sencillas de gestión de líneas repartidos en Argentina, Uruguay y Paraguay. En la plataforma se permite, actualmente: 
+Claro IoT es utilizado actualmente por 550 mil líneas *(proximamente 2 millones de líneas)* correspondientes a 236 clientes con necesidades sencillas de gestión de líneas repartidos en Argentina, Uruguay y Paraguay. En la plataforma se permite, actualmente: 
 
 1. Cambiar el estado de las líneas
 2. Obtener reportes
