@@ -42,3 +42,6 @@ El trabajo que realizamos desde el área con el proveedor y los desarrolladores 
 
 ### Actualización del look and feel de la jurisprudencia comentada
 
+Errepar es considerada una de las principales fuentes de información para todos los temas relacionados a las novedades contables y juridicas en la República Argentina. Esta consideración se basa en la calidad de sus activos digitales, que incluyen desde explicaciones de interpretación de leyes e implicaciones jurisprudenciales de fallos hasta notas de blog. Toda esta serie de comentarios se encuentra realizada por los mayores expertos en la materia de la Argentina y el acceso a estos comentarios y explicaciones ha sido el centro del negocio de Errepar desde su fundación. 
+
+Por esta razón, al comenzar con la tarea de renovar el look and feel de la jurisprudencia nos encontramos con mucha resistencia dentro de la organización. 
