@@ -110,3 +110,8 @@ Al ser un producto internacional, fue necesario impulsar y gestionar para que es
 
 ## **Claro Argentina: Claro IoT y Claro Connect** 
 
+Claro Argentina segmenta su mercado en dos categorías principales: Clientes Individuales y Empresas, con un portafolio diferenciado de productos y servicios para cada segmento.
+En el ecosistema empresarial, Claro Argentina ofrece dos plataformas especializadas para la autogestión de líneas IoT: Claro IoT y Claro Connect. Estas soluciones están diseñadas para atender diferentes niveles de complejidad en la administración de servicios IoT. Claro IoT se posiciona como una solución optimizada para empresas con requerimientos de gestión más específicos y flujos de trabajo simplificados, mientras que Connect suple a aquellos con necesidades más avanzadas. 
+
+
+
