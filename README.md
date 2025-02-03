@@ -145,3 +145,29 @@ Gracias a la **implementación de la activación del Roaming, logramos reducir l
 La **implementación del compromiso mínimo nos permitió alcanzar una mayor predictibilidad en los ingresos, creando un flujo financiero más estable y consistente. Esta nueva estructura incentivó a nuestros clientes a optimizar la gestión de su inventario de SIMs, lo que resultó en una operación más eficiente. En consecuencia, logramos una reducción sustancial en nuestros costos logísticos asociados al transporte y distribución de SIMs**, ya que los clientes comenzaron a mantener un control más riguroso de sus chips. 
 
 ## **Claro Argentina: Claro Connect** 
+
+Claro Connect es la plataforma IoT más avanzada de Claro en la actualidad, desarrollada como reemplazo de Jasper, la solución de Cisco utilizada anteriormente. Su implementación representó un desafío significativo en múltiples áreas:
+
+    1.Ingeniería: Garantizar una transición sin necesidad de reemplazo de SIMs, minimizando costos logísticos y operativos tanto para la empresa como para los clientes.
+    2.Sistemas: Alinear los procesos existentes en Jasper para asegurar compatibilidad y funcionalidad en Claro Connect.
+    3.Producto: Acompañar la migración de 113 clientes con más de 1,5 millones de líneas activas en la plataforma.
+
+Connect no es solo una plataforma para el mercado argentino, sino la solución IoT desarrollada para todas las operaciones del Grupo América Móvil a nivel global. En mi rol de Product Owner de la oferta IoT, fui responsable de alinear los equipos de trabajo para garantizar que la plataforma cumpliera con los requerimientos específicos de nuestra operación. Esto implicó la definición de procesos, la gestión de equipos distribuidos en diversas partes del mundo y la coordinación de desarrollos para asegurar una implementación exitosa en cada región.
+
+### Estrategia de Migración y Acompañamiento al Cliente
+
+La transición comenzó con un mapeo detallado de las funcionalidades utilizadas por cada cliente, seguido de una estrategia de comunicación clara y la generación de material de referencia para facilitar la adopción. Además, nuestro equipo de Consultoría y Diseño realizó demostraciones personalizadas y brindó soporte directo para resolver dudas y optimizar la experiencia del usuario.
+Capacidades de Claro Connect
+
+La plataforma ofrece una amplia gama de funcionalidades, incluyendo:
+
+✅ APIs para integración
+✅ Reglas de automatización
+✅ Carga y modificación masiva de líneas
+✅ Geolocalización
+✅ Envío masivo de comandos a dispositivos
+✅ Generación de reportes avanzados
+✅ Administración de roles y permisos
+✅ Roaming y numeración ficticia/real
+✅ APNs públicos y privados
+✅ IP fija e IMEI Whitelisting
