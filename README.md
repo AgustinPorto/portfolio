@@ -148,9 +148,9 @@ La **implementación del compromiso mínimo nos permitió alcanzar una mayor pre
 
 Claro Connect es la plataforma IoT más avanzada de Claro en la actualidad, desarrollada como reemplazo de Jasper, la solución de Cisco utilizada anteriormente. Su implementación representó un desafío significativo en múltiples áreas:
 
-    1.Ingeniería: Garantizar una transición sin necesidad de reemplazo de SIMs, minimizando costos logísticos y operativos tanto para la empresa como para los clientes.
-    2.Sistemas: Alinear los procesos existentes en Jasper para asegurar compatibilidad y funcionalidad en Claro Connect.
-    3.Producto: Acompañar la migración de 113 clientes con más de 1,5 millones de líneas activas en la plataforma.
+1.Ingeniería: Garantizar una transición sin necesidad de reemplazo de SIMs, minimizando costos logísticos y operativos tanto para la empresa como para los clientes.
+2.Sistemas: Alinear los procesos existentes en Jasper para asegurar compatibilidad y funcionalidad en Claro Connect.
+3.Producto: Acompañar la migración de 113 clientes con más de 1,5 millones de líneas activas en la plataforma.
 
 Connect no es solo una plataforma para el mercado argentino, sino la solución IoT desarrollada para todas las operaciones del Grupo América Móvil a nivel global. En mi rol de Product Owner de la oferta IoT, fui responsable de alinear los equipos de trabajo para garantizar que la plataforma cumpliera con los requerimientos específicos de nuestra operación. Esto implicó la definición de procesos, la gestión de equipos distribuidos en diversas partes del mundo y la coordinación de desarrollos para asegurar una implementación exitosa en cada región.
 
