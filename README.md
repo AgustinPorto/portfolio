@@ -161,13 +161,13 @@ Capacidades de Claro Connect
 
 La plataforma ofrece una amplia gama de funcionalidades, incluyendo:
 
-✅ APIs para integración
-✅ Reglas de automatización
-✅ Carga y modificación masiva de líneas
-✅ Geolocalización
-✅ Envío masivo de comandos a dispositivos
-✅ Generación de reportes avanzados
-✅ Administración de roles y permisos
-✅ Roaming y numeración ficticia/real
-✅ APNs públicos y privados
-✅ IP fija e IMEI Whitelisting
+✅ APIs para integración  
+✅ Reglas de automatización  
+✅ Carga y modificación masiva de líneas  
+✅ Geolocalización  
+✅ Envío masivo de comandos a dispositivos  
+✅ Generación de reportes avanzados  
+✅ Administración de roles y permisos  
+✅ Roaming y numeración ficticia/real  
+✅ APNs públicos y privados  
+✅ IP fija e IMEI Whitelisting  
