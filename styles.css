@@ -96,6 +96,29 @@ body {
   opacity: 0.65;
 }
 
+.lang-switch {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid var(--line);
+}
+
+.lang-link {
+  text-decoration: none;
+  color: #2f3339;
+  font-size: 0.8rem;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 999px;
+}
+
+.lang-link.active {
+  color: #ffffff;
+  background: #111111;
+}
+
 main {
   width: min(1100px, calc(100% - 34px));
   margin: 24px auto 64px;
@@ -418,6 +441,10 @@ h3 {
 @media (max-width: 640px) {
   .nav {
     display: none;
+  }
+
+  .topbar {
+    gap: 10px;
   }
 }
 
