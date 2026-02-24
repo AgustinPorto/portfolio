@@ -3,6 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
     <title>Agustin Porto | Product Owner</title>
     <meta
       name="description"
@@ -14,7 +17,18 @@
       href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css" />
+    <script>
+      (function () {
+        const url = new URL(window.location.href);
+        const current = url.searchParams.get("v");
+        const stamp = Date.now().toString();
+        if (!current) {
+          url.searchParams.set("v", stamp);
+          window.location.replace(url.toString());
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="./styles.css" id="app-styles" />
   </head>
   <body>
     <div class="bg-orb orb-a" aria-hidden="true"></div>
@@ -270,6 +284,18 @@
       <p>© <span id="year"></span> Agustin Porto</p>
     </footer>
 
-    <script src="./script.js"></script>
+    <script>
+      (function () {
+        const v = new URL(window.location.href).searchParams.get("v") || Date.now().toString();
+        const styleEl = document.getElementById("app-styles");
+        if (styleEl) {
+          styleEl.href = "./styles.css?v=" + encodeURIComponent(v);
+        }
+
+        const scriptEl = document.createElement("script");
+        scriptEl.src = "./script.js?v=" + encodeURIComponent(v);
+        document.body.appendChild(scriptEl);
+      })();
+    </script>
   </body>
 </html>
