@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agustinporto.github.io/portfolio/sitemap.xml

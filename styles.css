@@ -187,6 +187,70 @@ h2 {
   margin-bottom: 24px;
 }
 
+.timeline {
+  display: grid;
+  gap: 12px;
+}
+
+.timeline-item {
+  padding: 22px;
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+}
+
+.timeline-period {
+  margin: 0;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #556071;
+  font-weight: 600;
+}
+
+.timeline-item h3 {
+  margin: 10px 0 8px;
+}
+
+.timeline-item p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.chip-groups {
+  display: grid;
+  gap: 16px;
+}
+
+.chip-group {
+  padding: 22px;
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.82);
+  border: 1px solid rgba(255, 255, 255, 0.95);
+}
+
+.chip-title {
+  margin: 0 0 14px;
+  font-weight: 600;
+  color: #1c2430;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  font-size: 0.88rem;
+  padding: 7px 11px;
+  border-radius: 999px;
+  border: 1px solid #d6dde8;
+  background: #f7f9fc;
+  color: #2b333f;
+}
+
 .cards {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -312,6 +376,13 @@ h3 {
   max-width: 56ch;
   margin: 14px auto 24px;
   line-height: 1.6;
+}
+
+.contact-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 
 .footer {
